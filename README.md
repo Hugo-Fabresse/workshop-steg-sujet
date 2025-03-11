@@ -1,4 +1,4 @@
-# Introduction à la Stégénographie 🕵️‍♂️
+# Introduction à la Stégénographie 🕵️♂️
 
 La **stégénographie** est l'art de dissimuler des informations secrètes dans un support apparemment innocent. Ce domaine combine à la fois la cryptographie et des techniques de masquage de données afin de protéger et de transmettre des informations de manière invisible. 🔐
 
@@ -8,7 +8,7 @@ La **stégénographie** est l'art de dissimuler des informations secrètes dans 
 
 La **stégénographie** provient du grec "steganos" (caché) et "grapho" (écrire), ce qui signifie littéralement "écrire caché". Contrairement à la cryptographie, qui consiste à rendre un message illisible, la stégénographie cherche à rendre l'existence même du message indétectable.
 
-En d'autres termes, l'objectif de la stégénographie est de masquer l'existence d'une information secrète dans un fichier ou un message, de sorte que personne ne puisse soupçonner qu'il existe. 🎭
+En d'autres termes, l'objectif de la stégénographie est de masquer l'existence d'une information secrète dans un fichier ou un message, de sorte que personne ne puisse soupçonner sa présence. 🎭
 
 ---
 
@@ -30,6 +30,17 @@ Dans ce workshop, nous allons apprendre et pratiquer les bases de la stégénogr
 **Masquage de messages dans des images** : Vous devrez retrouver des message caché dans des images, ces messages caché appelé flags vont vous servir pour acceder a la suite des epreuves
 
 Le but de ce workshop est de vous donner une compréhension pratique de la stégénographie et de vous fournir les compétences nécessaires pour commencer à l'appliquer.
+
+---
+
+## **Un Workshop au format CTF 🏆**  
+
+Ce Workshop, ainsi que les prochains Workshops Cybersécurité, suit le format des **CTFs (Capture the Flag)**.  
+*Un CT quoi !?* **UN CTF, PARDIEU !**  
+
+Le principe est simple : un jeu de cybersécurité où vous devrez résoudre des **challenges**, chacun mettant en lumière un aspect spécifique de la discipline.  
+
+Chaque challenge a un objectif : **trouver un flag**, un élément caché qui prouve votre réussite. Pour valider un challenge, il vous suffira de soumettre ce flag.
 
 ---
 
