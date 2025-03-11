@@ -1,4 +1,4 @@
-# Introduction à la Stégénographie 🕵️♂️
+# Introduction à la Stégénographie 🕵️
 
 La **stégénographie** est l'art de dissimuler des informations secrètes dans un support apparemment innocent. Ce domaine combine à la fois la cryptographie et des techniques de masquage de données afin de protéger et de transmettre des informations de manière invisible. 🔐
 
