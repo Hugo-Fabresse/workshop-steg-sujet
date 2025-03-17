@@ -36,7 +36,6 @@ Le but de ce workshop est de vous donner une compréhension pratique de la stég
 ## **Un Workshop au format CTF 🏆**  
 
 Ce Workshop, ainsi que les prochains Workshops Cybersécurité, suit le format des **CTFs (Capture the Flag)**.  
-*Un CT quoi !?* **UN CTF, PARDIEU !**  
 
 Le principe est simple : un jeu de cybersécurité où vous devrez résoudre des **challenges**, chacun mettant en lumière un aspect spécifique de la discipline.  
 
